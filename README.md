@@ -4,4 +4,4 @@ This repository serves to present the related documentation of our Introduction 
 
 Project wiki: https://github.com/intro-sde/documentation/wiki.
 
-API documentation: 
+API documentation: https://github.com/intro-sde/documentation/wiki/API-references
